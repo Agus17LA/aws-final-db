@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  jpa:
+    show-sql: true
+  datasource:
+    url: jdbc:mariadb://127.0.0.1:3306/aws_final_project
+    username: root
+    password: root

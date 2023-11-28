@@ -1,0 +1,10 @@
+com\awsfinal\awsfinaldb\exceptions\GlobalExceptionHandler.class
+com\awsfinal\awsfinaldb\services\ProfessionService.class
+com\awsfinal\awsfinaldb\repositories\IProfessionRepository.class
+com\awsfinal\awsfinaldb\exceptions\ParamException.class
+com\awsfinal\awsfinaldb\AwsFinalDbApplication.class
+com\awsfinal\awsfinaldb\controllers\UserController.class
+com\awsfinal\awsfinaldb\domain\Profession.class
+com\awsfinal\awsfinaldb\domain\User.class
+com\awsfinal\awsfinaldb\services\UserService.class
+com\awsfinal\awsfinaldb\repositories\IUserRepository.class
